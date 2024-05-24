@@ -11,7 +11,7 @@ Introduction: The purpose is to deploy the Wazuh SIEM and EDR solution, as well 
 
   Download and run the Wazuh installation assistant:
   ```xml
-  - curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a -i<br>
+  - curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a -i
   ```
   Check the Wazuh Web Interface using the username and password provided
   
